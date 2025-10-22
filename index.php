@@ -4,6 +4,6 @@
 	<title>Testando Ambiente</title>
 </head>
 <body>
-	Olá Mundo bonito e legal
+	Olá Mundo bonito e
 </body>
 </html>
